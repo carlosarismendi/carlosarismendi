@@ -1,5 +1,4 @@
 ### Hi there. I am Carlos Arismendi 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarismendi&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<img src="https://github.com/carlosarismendi/carlosarismendi/imgs/banner-github.png" width="1000" height="300">-->
 
@@ -9,8 +8,8 @@ I define myself as a highly competitive person who is always eagerly searching f
 
 Additionally, I love teaching because I consider it is an excellent way of helping people at the same time I revise what I know, order my ideas and gain more knowledge.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarismendi&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 # Core qualifications
-
 ## Programming languages
 <img src="https://img.shields.io/badge/-Golang-blueviolet"> | <img src="https://img.shields.io/badge/-C%2B%2B-blueviolet"> | <img src="https://img.shields.io/badge/-Python-blueviolet"> | <img src="https://img.shields.io/badge/-JavaScript-blueviolet">
 
