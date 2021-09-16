@@ -11,7 +11,7 @@ Additionally, I love teaching because I consider it is an excellent way of helpi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarismendi&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 # Core qualifications
 ## Programming languages
-<img src="https://img.shields.io/badge/-Golang-blueviolet"> | <img src="https://img.shields.io/badge/-C%2B%2B-blueviolet"> | <img src="https://img.shields.io/badge/-Python-blueviolet"> | <img src="https://img.shields.io/badge/-JavaScript-blueviolet">
+<img src="https://img.shields.io/badge/-Golang-blueviolet"> | <img src="https://img.shields.io/badge/-C%2B%2B-blueviolet"> | <img src="https://img.shields.io/badge/-Python-blueviolet"> | <img src="https://img.shields.io/badge/-JavaScript-blueviolet"> | <img src="https://img.shields.io/badge/-TypeScript-blueviolet">
 
 ## Software Engineering techniques
 <img src="https://img.shields.io/badge/-Concurrent%20Programming-blue"> | <img src="https://img.shields.io/badge/-WebSockets-blue"> | <img src="https://img.shields.io/badge/-OOP-blue"> | <img src="https://img.shields.io/badge/-Design%20Patterns-blue"> | <img src="https://img.shields.io/badge/-Data%20Structures-blue"> | <img src="https://img.shields.io/badge/-REST%20APIs-blue">
