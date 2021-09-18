@@ -17,7 +17,7 @@ Additionally, I love teaching because I consider it is an excellent way of helpi
 <img src="https://img.shields.io/badge/-Concurrent%20Programming-blue"> | <img src="https://img.shields.io/badge/-WebSockets-blue"> | <img src="https://img.shields.io/badge/-OOP-blue"> | <img src="https://img.shields.io/badge/-Design%20Patterns-blue"> | <img src="https://img.shields.io/badge/-Data%20Structures-blue"> | <img src="https://img.shields.io/badge/-REST%20APIs-blue">
 
 ## Frameworks and libraries
-<img src="https://img.shields.io/badge/-Vue.js-red"> | <img src="https://img.shields.io/badge/-Node.js-red"> | <img src="https://img.shields.io/badge/-TensorFlow-red"> | <img src="https://img.shields.io/badge/-Pandas-red"> | <img src="https://img.shields.io/badge/-Numpy-red"> | <img src="https://img.shields.io/badge/-sklearn-red"> 
+<img src="https://img.shields.io/badge/-Vue.js-red"> | <img src="https://img.shields.io/badge/-Node.js-red"> | <img src="https://img.shields.io/badge/-Bootstrap-red"> | <img src="https://img.shields.io/badge/-TensorFlow-red"> | <img src="https://img.shields.io/badge/-Pandas-red"> | <img src="https://img.shields.io/badge/-Numpy-red"> | <img src="https://img.shields.io/badge/-sklearn-red"> 
 
 
 # IDE's, OS's, others
